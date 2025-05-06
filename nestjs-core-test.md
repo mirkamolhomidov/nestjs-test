@@ -10,7 +10,7 @@ C) useConstructor
 
 ## 3. NestJS'da circular dependency (doiraviy bog'liqlik) muammosini hal qilish uchun qaysi mexanizmdan foydalaniladi?
 
-B) forwardRef() funksiyas
+B) forwardRef() funksiyasi
 
 ## 4. `@Injectable()` dekoratori NestJS'da nimani anglatadi?
 
