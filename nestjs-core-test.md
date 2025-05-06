@@ -6,7 +6,7 @@ C) DI Container'da serviceni ro'yxatdan o'tkazish uchun
 
 ## 2. NestJS'da quyidagi provider turlaridan qaysi biri mavjud emas?
 
-C) useConstructo
+C) useConstructor
 
 ## 3. NestJS'da circular dependency (doiraviy bog'liqlik) muammosini hal qilish uchun qaysi mexanizmdan foydalaniladi?
 
